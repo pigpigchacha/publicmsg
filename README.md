@@ -1,2 +1,2 @@
-# PigCha最新的公告消息
+# PigCha加速器最新的公告消息
 ## 最新官网地址:co2fun.com
