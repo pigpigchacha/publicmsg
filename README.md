@@ -1,4 +1,4 @@
-## PigCha加速器最新的公告消息(官网地址:[co2fun.com](http://cofun.com))
+## PigCha加速器最新的公告消息(官网地址:[co2fun.com](http://co2fun.com))
 ***
 ## 啊啊！！看我！！客服说：论服务，海底捞火锅都怕我们 微信:mrnew_
 ***
