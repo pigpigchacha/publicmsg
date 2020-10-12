@@ -1,4 +1,9 @@
-## PigCha加速器最新的公告消息(官网地址:[pigcha.com](http://pigcha.com))
+## PigCha加速器公告消息
+- 官网地址:[pigcha.com](http://pigcha.com)
+- 用户修改密码入口:[点我](http://pigcha.com/changepsw)
+***
+***
+***
 ### **2020-09-27**
 - 今天用户朋友的反馈，希望支持流量付费，没错，我们今天立即支持了！
 ***
