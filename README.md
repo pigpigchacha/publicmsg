@@ -1,6 +1,8 @@
 ## Pigcha加速器公告消息
 - 官网地址:[pigcha.com](http://pigcha.com)
 - 用户修改密码入口:[点我](http://pigcha.com/changepsw)
+- git代理：**在托盘菜单勾选**，加速git客户端的clone push pull等操作，前提是仓库域名要使用https的哦！！**本功能为内地开发者之福音！！**
+- 控制台代理：**在托盘菜单点出**，仅该控制台生效，比如你使用python的pip命令,golang的go get命令,前端的npm等等等，在该控制台的调用的命令，都会进行http/https代理加速！！**本功能为内地开发者之福音！！**
 ***
 ***
 ***
