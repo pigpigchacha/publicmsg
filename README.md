@@ -1,7 +1,7 @@
 <h1 align="center">《小巧精悍，功能好用，极简设计，没错，就是pigcha》</h1>
 
 ## 官网
-- 官网地址:[pigcha.com](http://pigcha.com)
+- 官网地址:[点我](http://pigcha.com)
 - 用户修改密码入口:[点我](http://pigcha.com/changepsw)
 - 无法代理成功：[点我](http://pigcha.com/help)
 
